@@ -1,4 +1,4 @@
-apring:
+spring:
   application:
     name: Config-Prod
 eureka:
