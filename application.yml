@@ -1,3 +1,6 @@
+apring:
+  application:
+    name: CONFIG-DEFAULT
 eureka:
   instance:
     prefer-ip-address: true
